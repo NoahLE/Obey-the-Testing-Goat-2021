@@ -1,0 +1,9 @@
+# Folders
+.idea
+.vscode
+__pycache__
+
+# Files
+*.log
+*.sqlite3
+*.pyc
